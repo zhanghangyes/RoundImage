@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="167813138646891"
+    token="-2025784212869262622"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="193" />
+    <task
+        name="instant-run-dex"
+        duration="29" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="D:\beifen\RoundImageView-master\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="167747273643467"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\beifen\RoundImageView-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="167798689886921"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\beifen\RoundImageView-master\app\build\intermediates\builds\debug\167798689886921\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="167813138646891"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\beifen\RoundImageView-master\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

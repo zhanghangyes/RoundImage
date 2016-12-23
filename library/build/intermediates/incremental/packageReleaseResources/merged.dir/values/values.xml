@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="dimension" name="borderRadius"/>
+    <attr format="reference" name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr>
+    <declare-styleable name="roundImageViewAttrs"><attr name="borderRadius"/><attr name="type"/></declare-styleable>
+    <string name="app_name">Library</string>
+</resources>
